@@ -1,0 +1,13 @@
+default-lease-time 600;
+max-lease-time 7200;
+option subnet-mask 255.255.255.0;
+option broadcast-address 10.242.120.255;
+option routers 10.242.120.254;
+option domain-name-servers 10.242.120.2;
+option domain-name "ns2.ucexchange.com";
+option ntp-servers 10.242.120.254;
+
+subnet 10.242.120.0 netmask 255.255.255.0 {
+  range 10.242.120.0 10.242.120.254;
+}
+
