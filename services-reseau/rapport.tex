@@ -1,0 +1,86 @@
+\documentclass[12pt, a4paper]{article}
+\usepackage[francais]{babel}
+\usepackage{caption}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+\usepackage{listings}
+\usepackage{geometry}
+\usepackage[colorlinks=true,linkcolor=black,anchorcolor=black,citecolor=black,filecolor=black,menucolor=black,runcolor=black,urlcolor=black]{hyperref}
+
+% \usepackage{mathpazo} --> Police à utiliser lors de rapports plus sérieux
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{}
+\rhead{}
+\chead{}
+\rfoot{\thepage}
+\lfoot{Martin Baumgaertner}
+\cfoot{}
+
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\begin{document}
+\begin{titlepage}
+	\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} 
+	\center 
+	\textsc{\LARGE iut de colmar}\\[6.5cm] 
+	\textsc{\Large saé - concevoir un réseau multi-sites}\\[0.5cm] 
+	\textsc{\large Année 2022-23}\\[0.5cm]
+	\HRule\\[0.75cm]
+	{\huge\bfseries Partie services réseaux}\\[0.4cm]
+	\HRule\\[1.5cm]
+	\textsc{\large martin baumgaertner}\\[6.5cm] 
+
+	\vfill\vfill\vfill
+	{\large\today} 
+	\vfill
+\end{titlepage}
+\newpage
+\tableofcontents
+\newpage
+\section{Introduction}
+Le but principale de cette SAÉ fût bien sûr de développer un réseau informatique
+qui s'étend sur plusieurs sites. Pour cela, mes camarades ont utilisés des protocoles
+de routage propore à leurs besoins. Pour ma part, j'ai choisi de mettre en place
+les services réseaux. Donc bien entendu, les protocoles et technologies utilisés
+ont été différentes. Je vais donc vous expliquer à travers ce rapport, comment
+j'ai mis en place les différents services réseaux nécessaires au projet,
+à savoir ; les DNS, le serveur DHCP, le serveur WEB et le serveur mail.
+
+
+\section{les DNS}
+    \subsection{Explication}
+    Pour la mise en place des DNS, j'ai utilisé le logiciel Bind9 
+    le logiciel libre Bind9, présent exclusivement sur Linux. J'ai fait 
+    le choix de ce logiciel car c'était celui que nous utilisions pendant
+    les cours de M. BINDEL en début d'année, mais également celui que nous 
+    utilisions en TP l'an dernier avec Mme LACROIX. 
+
+
+    \subsection{Le DNS primaire}
+    Pour la mise en place du DNS primaire, j'ai crée un contenur LXC sous
+    ubuntu. J'y ai donc installé Bind9 avec la commande suivante : 
+    \texttt{sudo apt install bind9}. Puis, j'ai configuré les fichiers
+    de configuration de bind9 qui se trouvent tous dans le répertoire 
+    \texttt{/etc/bind/}. Pour commencer, il faut déclarer une zone. 
+    Pour ce faire, il faut éditer le fichier named.conf.local. Voici la
+    configuration que j'ai mis dans ce fichier :
+
+    \subsection{Le DNS secondaire}
+
+
+\section{le DHCP}
+    \subsection{Explication du DHCP}
+
+    \section{Mise en place du DHCP}
+
+
+\section{Le serveur WEB}
+
+
+\section{Le serveur mail}
+
+
+\end{document}
