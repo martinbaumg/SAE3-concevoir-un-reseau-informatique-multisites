@@ -3,9 +3,16 @@
 \contentsline {section}{\numberline {2}les DNS}{2}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Explication}{2}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Le DNS primaire}{2}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Le DNS secondaire}{2}{subsection.2.3}%
-\contentsline {section}{\numberline {3}le DHCP}{2}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Explication du DHCP}{2}{subsection.3.1}%
-\contentsline {section}{\numberline {4}Mise en place du DHCP}{2}{section.4}%
-\contentsline {section}{\numberline {5}Le serveur WEB}{2}{section.5}%
-\contentsline {section}{\numberline {6}Le serveur mail}{2}{section.6}%
+\contentsline {subsubsection}{\numberline {2.2.1}Zone de résolution directe}{2}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Zone de résolution inverse}{4}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Test du premier DNS}{5}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}Le DNS secondaire}{5}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Zone de résolution directe}{5}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Zone de résolution inverse}{6}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Test du DNS secondaire}{6}{subsubsection.2.3.3}%
+\contentsline {section}{\numberline {3}le DHCP}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Explication du DHCP}{7}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Mise en place du DHCP}{7}{section.4}%
+\contentsline {subsubsection}{\numberline {4.0.1}test du serveur DHCP}{9}{subsubsection.4.0.1}%
+\contentsline {section}{\numberline {5}Le serveur WEB}{9}{section.5}%
+\contentsline {section}{\numberline {6}Conclusion}{10}{section.6}%

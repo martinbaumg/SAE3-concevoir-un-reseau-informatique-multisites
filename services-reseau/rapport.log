@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.2)  6 FEB 2023 19:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.2)  10 FEB 2023 17:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -384,26 +384,176 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
                    \relax 
 l.42 \newpage
               [1]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 65.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 60.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) [2] (./rapport.aux)
+)
+<img/zone1.png, id=106, 430.60875pt x 75.28125pt>
+File: img/zone1.png Graphic file (type png)
+<use img/zone1.png>
+Package pdftex.def Info: img/zone1.png  used on input line 77.
+(pdftex.def)             Requested size: 334.60422pt x 58.49857pt.
+ [2 <./img/zone1.png>]
+<img/zone1-db.png, id=117, 558.085pt x 227.85126pt>
+File: img/zone1-db.png Graphic file (type png)
+<use img/zone1-db.png>
+Package pdftex.def Info: img/zone1-db.png  used on input line 90.
+(pdftex.def)             Requested size: 376.42575pt x 153.68864pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+
+Overfull \hbox (10.56664pt too wide) in paragraph at lines 100--101
+\T1/cmr/m/n/12 pour le nom de do-maine @, in-di-quant que le ser-veur de nom \T1/cmr/bx/n/12 ucex-change.com
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+[3 <./img/zone1-db.png>]
+<img/zone-inv.png, id=124, 403.5075pt x 79.29625pt>
+File: img/zone-inv.png Graphic file (type png)
+<use img/zone-inv.png>
+Package pdftex.def Info: img/zone-inv.png  used on input line 113.
+(pdftex.def)             Requested size: 376.42575pt x 73.97462pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
+
+ []
+
+<img/ns1-inv.png, id=125, 558.085pt x 224.84pt>
+File: img/ns1-inv.png Graphic file (type png)
+<use img/ns1-inv.png>
+Package pdftex.def Info: img/ns1-inv.png  used on input line 127.
+(pdftex.def)             Requested size: 376.42575pt x 151.65752pt.
+[4 <./img/zone-inv.png> <./img/ns1-inv.png>]
+<img/ns-ns1.png, id=134, 484.81125pt x 107.40125pt>
+File: img/ns-ns1.png Graphic file (type png)
+<use img/ns-ns1.png>
+Package pdftex.def Info: img/ns-ns1.png  used on input line 146.
+(pdftex.def)             Requested size: 376.42575pt x 83.39406pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--153
+
+ []
+
+<img/ns2-de.png, id=135, 429.605pt x 76.285pt>
+File: img/ns2-de.png Graphic file (type png)
+<use img/ns2-de.png>
+Package pdftex.def Info: img/ns2-de.png  used on input line 168.
+(pdftex.def)             Requested size: 376.42575pt x 66.84348pt.
+[5 <./img/ns-ns1.png> <./img/ns2-de.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 175--178
+
+ []
+
+<img/ns2-ex.png, id=144, 562.1pt x 259.97125pt>
+File: img/ns2-ex.png Graphic file (type png)
+<use img/ns2-ex.png>
+Package pdftex.def Info: img/ns2-ex.png  used on input line 181.
+(pdftex.def)             Requested size: 376.42575pt x 174.09653pt.
+<img/nslook.png, id=145, 472.76625pt x 105.39375pt>
+File: img/nslook.png Graphic file (type png)
+<use img/nslook.png>
+Package pdftex.def Info: img/nslook.png  used on input line 202.
+(pdftex.def)             Requested size: 292.77629pt x 65.26945pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--216
+
+ []
+
+[6 <./img/ns2-ex.png> <./img/nslook.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 217--222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--243
+
+ []
+
+[7]
+<img/dhcp.png, id=159, 407.5225pt x 650.43pt>
+File: img/dhcp.png Graphic file (type png)
+<use img/dhcp.png>
+Package pdftex.def Info: img/dhcp.png  used on input line 251.
+(pdftex.def)             Requested size: 209.12683pt x 333.77925pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+
+ []
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 265.
+
+[8 <./img/dhcp.png>]
+<img/test-dhcp.png, id=167, 936.49875pt x 225.84375pt>
+File: img/test-dhcp.png Graphic file (type png)
+<use img/test-dhcp.png>
+Package pdftex.def Info: img/test-dhcp.png  used on input line 272.
+(pdftex.def)             Requested size: 376.42575pt x 90.78044pt.
+<img/web.png, id=168, 686.565pt x 177.66376pt>
+File: img/web.png Graphic file (type png)
+<use img/web.png>
+Package pdftex.def Info: img/web.png  used on input line 290.
+(pdftex.def)             Requested size: 376.42575pt x 97.40631pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--310
+
+ []
+
+[9 <./img/test-dhcp.png> <./img/web.png>] [10] (./rapport.aux)
 Package rerunfilecheck Info: File `rapport.out' has not changed.
-(rerunfilecheck)             Checksum: DCAD8480A9B0833376FD76C6F4373A52;1225.
+(rerunfilecheck)             Checksum: F8D932F7197D7EF1AB6A4463A8628ECC;2565.
  ) 
 Here is how much of TeX's memory you used:
- 13360 strings out of 478268
- 215050 string characters out of 5846348
- 520160 words of memory out of 5000000
- 31412 multiletter control sequences out of 15000+600000
+ 13489 strings out of 478268
+ 217199 string characters out of 5846348
+ 521931 words of memory out of 5000000
+ 31502 multiletter control sequences out of 15000+600000
  481184 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,63p,376b,426s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc2074.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on rapport.pdf (3 pages, 153168 bytes).
+ 60i,11n,63p,608b,426s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc2074.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on rapport.pdf (11 pages, 720655 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 241 PDF objects out of 1000 (max. 8388607)
+ 182 compressed objects within 2 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 192 words of extra memory for PDF output out of 10000 (max. 10000000)
 
